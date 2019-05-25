@@ -16,4 +16,4 @@ gpg --full-generate-key
 5. Choisir le temps de validité de la clé.
 6. Valider les informations précedemment saisies.
 7. Entrer les informations concernant votre identité.
-8. Choisir un mot de passe pour sécuriser sa clé.
+8. Choisir un mot de passe pour sécurisé sa clé.
