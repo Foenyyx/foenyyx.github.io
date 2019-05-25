@@ -6,7 +6,7 @@
 
 ## Créer une clé GPG
 
-1. Ouvrir la console "Git Bash"
+1. Ouvrir la console "Git Bash".
 2. Utiliser la commande de génération de clé suivante :
 ```markdown
 gpg --full-generate-key
