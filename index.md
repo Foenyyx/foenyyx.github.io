@@ -1,4 +1,4 @@
-# Signer ses commits et push sans mot de passe
+# Signer ses commits
 
 ## Prérequis (Windows uniquement)
 
